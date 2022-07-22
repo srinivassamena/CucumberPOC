@@ -18,7 +18,7 @@ public class DriverFactory {
 	 * Developed By:  Srinivas Samena
 	 * Function Developed On:  12th November 2021
 	 * 
-	 * Description:This method is used to initialize the thradlocal driver on the basis of given
+	 * Description:This method is used to initialize the threadlocal driver on the basis of given
 	 * browser
 	 * @param browser
 	 * @return this will return tldriver.
