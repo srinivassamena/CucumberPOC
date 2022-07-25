@@ -91,7 +91,7 @@ public class ElementUtil extends DriverFactory{
 	}
 	
 	/**
-	 * Author : 
+	 * Author : Srinivas Samena
 	 * @param driver
 	 * @param elementList
 	 * @return List<WebElement>
@@ -141,7 +141,7 @@ public class ElementUtil extends DriverFactory{
 		return flag;
 	}
 
-	/**
+	/** Srinivas Samena
 	 * Type text at location
 	 * 
 	 * @param locatorName
@@ -192,7 +192,7 @@ public class ElementUtil extends DriverFactory{
 		}
 	}
 
-	/**
+	/** Srinivas Samena
 	 * select value from DropDown by using selectByIndex
 	 * 
 	 * @param locator     : Action to be performed on element (Get it from Object
@@ -223,7 +223,7 @@ public class ElementUtil extends DriverFactory{
 		}
 	}
 
-	/**
+	/** Srinivas Samena
 	 * select value from DD by using value
 	 * 
 	 * @param locator     : Action to be performed on element (Get it from Object
@@ -255,7 +255,7 @@ public class ElementUtil extends DriverFactory{
 		}
 	}
 
-	/**
+	/** Srinivas Samena
 	 * select value from DropDown by using selectByVisibleText
 	 * 
 	 * @param locator     : Action to be performed on element (Get it from Object
@@ -363,7 +363,7 @@ public class ElementUtil extends DriverFactory{
 		}
 	}
 
-	/**
+	/** Srinivas Samena
 	 * This method switch the to frame using frame ID.
 	 * 
 	 * @param idValue : Frame ID wish to switch
@@ -389,7 +389,7 @@ public class ElementUtil extends DriverFactory{
 		}
 	}
 
-	/**
+	/** Srinivas Samena
 	 * This method switch the to frame using frame Name.
 	 * 
 	 * @param nameValue : Frame Name wish to switch
@@ -658,7 +658,7 @@ public class ElementUtil extends DriverFactory{
 	}
 	
 	
-	/**
+	/** Srinivas Samena
 	 * Verify alert present or not
 	 * 
 	 * @return: Boolean (True: If alert preset, False: If no alert)
@@ -816,7 +816,8 @@ public class ElementUtil extends DriverFactory{
 	}
 	
 	/**
-	 * Author : Gaurav Description : Highlight focused WebElement
+	 * Author : Srinivas Samena
+	 * Description : Highlight focused WebElement
 	 *
 	 * @param elmt
 	 * @param driver
@@ -832,7 +833,8 @@ public class ElementUtil extends DriverFactory{
 	}
 
 	/**
-	 * Author : Gaurav Description : Clicking the invisible(Hidden)
+	 * Author : Srinivas Samena
+	 * Description : Clicking the invisible(Hidden)
 	 * Elements
 	 *
 	 * @param driver
@@ -845,7 +847,8 @@ public class ElementUtil extends DriverFactory{
 	}
 	
 	/**
-	 * Author : Gaurav Description : Waiting for an Element until it is
+	 * Author : Srinivas Samena
+	 * Description : Waiting for an Element until it is
 	 * visible
 	 *
 	 * @param driver
@@ -875,7 +878,8 @@ public class ElementUtil extends DriverFactory{
 	}
 	
 	/**
-	 * Author : Gaurav Description : Date picker method
+	 * Author : Srinivas Samena
+	 * Description : Date picker method
 	 *
 	 * @param driver
 	 * @param date
